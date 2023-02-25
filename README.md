@@ -9,9 +9,5 @@
 ### 자율주행
 https://user-images.githubusercontent.com/102716945/221360445-4fff18b1-f0ac-4dac-b6db-65324b8a3b13.mp4
 
-라인트래커와 정지 표지를 인식하는
-
-https://user-images.githubusercontent.com/102716945/221360605-cde776ba-0cda-4556-b1d0-4b67e6227087.mp4
-
- 것까지는 학습시켰으나, 학습 시간이 부족하여 우회전, 좌회전까지는 구현하지 못 함.
+라인트래커와 정지 표지를 인식하는 것까지는 학습시켰으나, 학습 시간이 부족하여 우회전, 좌회전까지는 구현하지 못 함.
 
